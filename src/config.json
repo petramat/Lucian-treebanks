@@ -15,6 +15,21 @@
       "title": "Collection 1",
       "publications": [
         {
+          "path": "Zeuxis",
+          "author": "Lucian",
+          "work": "Zeuxis",
+          "editors": "Petra Matović",
+          "sections": [
+            {
+              "locus": "9",
+              "path": "Zeuxis-9",
+              "xml": "Zeuxis-9.xml",
+              "link": "",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 9, "end": 9 }
+            }
+
+        {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
           "work": "On the Murder of Eratosthenes",
