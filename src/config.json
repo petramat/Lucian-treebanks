@@ -28,7 +28,8 @@
               "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
               "chunks": { "start": 9, "end": 9 }
             }
-
+          ]
+        },
         {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
