@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2022-10-21 09:48:37 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>MateoCader</short>
+      <name>Mateo Cader</name>
+      <address>mateo.cader@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/MateoCader</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="5"/>
+      <word id="3" form="τοιαῦτα" lemma="τοιοῦτος" postag="p-p---nn-" relation="OBJ" head="5"/>
+      <word id="4" form="πολλὰ" lemma="πολύς" postag="a-p---nn-" relation="ATR" head="3"/>
+      <word id="5" form="ἔλεγον" lemma="λέγω1" postag="v3piia---" relation="PRED" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="5"/>
+      <word id="8" form="ἐκεκήληντο" lemma="κηλέω" postag="v3plie---" relation="ADV" head="7"/>
+      <word id="9" form="δηλαδὴ" lemma="δηλαδή" postag="d--------" relation="AuxY" head="8"/>
+      <word id="10" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="8"/>
+      <word id="11" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="12"/>
+      <word id="12" form="ἀκροάσεως" lemma="ἀκρόασις" postag="n-s---fg-" relation="OBJ" head="10"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
