@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2022-10-17 10:06:00 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>Petra Šoštarić</short>
+      <name>Petra Matović</name>
+      <address>petrasostaric2011@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Petra%20%C5%A0o%C5%A1tari%C4%87</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="2" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="OBJ" head="5"/>
+      <word id="3" form="ἄν" lemma="ἄν1" postag="d--------" relation="AuxZ" head="5"/>
+      <word id="4" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="5"/>
+      <word id="5" form="εἴποι" lemma="εἶπον" postag="v3saoa---" relation="PRED" head="0"/>
+      <word id="6" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="7"/>
+      <word id="7" form="ἐπινοίας" lemma="ἐπίνοια" postag="n-s---fg-" relation="ATR" head="2"/>
+      <word id="8" form="νεαρώτερον" lemma="νεαρός" postag="a-s---nac" relation="ATR" head="2"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="'" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
